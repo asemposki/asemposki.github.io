@@ -4,7 +4,7 @@ collection: talks
 type: "Invited talk"
 permalink: /talks/
 venue: "Los Alamos National Laboratory, Theoretical Division (T-2)"
-date: 2013-03-01
+date: 2024-08-20
 location: "Los Alamos, New Mexico, USA"
 ---
 
