@@ -8,4 +8,4 @@ date: 2024-10-31
 location: "Facility for Rare Isotope Beams, East Lansing, MI, USA"
 ---
 
-This is a description of your talk, which is a markdown file that can be all markdown-ified like any other post. Yay markdown!
+Invited talk where I discussed progress on the work presented in [this paper](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.111.035804) and an upcoming publication.
