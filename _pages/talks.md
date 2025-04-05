@@ -10,7 +10,6 @@ redirect_from:
 A complete list of my seminars, invited talks, contributed talks, and poster sessions are found below.
 
 # Seminars
-
 ## 2024
 
 * August 20: From chiral EFT to perturbative QCD: A Bayesian model mixing approach to the dense matter equation of state, T-2 Division Theory Seminar (Los Alamos National Laboratory), Los Alamos, NM, USA
@@ -20,10 +19,11 @@ A complete list of my seminars, invited talks, contributed talks, and poster ses
 
 # Invited Talks
 
+
 # Contributed Talks
 
-# Poster sessions
 
+# Poster sessions
 ## 2025
 
 * April 8: A Bayesian model mixing approach to the dense matter equation of state, Ohio University Student Expo, Athens, OH, USA
