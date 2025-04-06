@@ -57,7 +57,7 @@ Workshops Attended
 
 * August 2024: Put the reaction into action: a nuclear physics boot camp on reaction methods (FRIB-TA Summer School), East Lansing, MI, USA
 
-* June 2024: Uncertainty Quantification in Nuclear Physics (UQNP24) (Mainz Institute for Theoretical Physics workshop), Johannes Gutenberg Universit\"at, Mainz, Germany
+* June 2024: Uncertainty Quantification in Nuclear Physics (UQNP24) (Mainz Institute for Theoretical Physics workshop), Johannes Gutenberg Universität, Mainz, Germany
 
 * June 2022: Quantum Computing and Nuclear Few- and Many-Body Physics (FRIB-TA Summer School; won [Final Challenge Project](https://qc.ascsn.net/landing.html)), East Lansing, MI, USA
 
@@ -74,8 +74,8 @@ Service and leadership
   * Invited and co-hosted Dr. Warren Rogers for a departmental colloquium
 
 * 2021-2022: Secretary of Physics & Astronomy Graduate Students
-  * Worked with President to plan events \\
-  * Organized Department Fall Picnic \\
+  * Worked with President to plan events
+  * Organized Department Fall Picnic
  
 Outreach
 ======
@@ -83,10 +83,10 @@ Outreach
 * March 2022: Ohio University Family Science Saturday
   * Show co-leader: liquid nitrogen, induction
 
-* November 2019: OU Department of Physics \& Astronomy Open House
+* November 2019: OU Department of Physics & Astronomy Open House
   * Show co-leader: `Levitation: Beating Back Gravity'
 
-* November 2017: OU Department of Physics \& Astronomy Open House
+* November 2017: OU Department of Physics & Astronomy Open House
   * Lab tour guide: Dr Arthur Smith's MBE/SP-STM system
 
 Skills
