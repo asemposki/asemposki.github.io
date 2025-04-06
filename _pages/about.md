@@ -30,9 +30,9 @@ I'm a member of:
 - [The FRIB Theory Alliance](https://fribtheoryalliance.org)
 
 Fun facts:
-- I'm an avid fan of classic rock, especially Led Zeppelin, the Doors, and Electric Light Orchestra
+- I'm an avid fan of classic rock, especially Led Zeppelin, The Doors, Electric Light Orchestra, The Moody Blues, The Beatles, and David Bowie
 - My favourite modern bands include Florence + the Machine, Hozier, and Grimes
-- I love hiking among the hills of Athens and Appalachia
+- I love hiking among the hills of Athens and Appalachia, and camping in northern Michigan
 - I am a lifelong reader and enjoyer of both contemporary fiction and classic novels, including those by Charlotte Brontë, Jane Austen, J. R. R. Tolkien, E. M. Forster, Herman Melville, Thomas Hardy, Arthur C. Clarke, and Frank Herbert
 - I'm a Michigander by birth and lived there for 18 years before moving to Athens, Ohio for my studies
 - I am known to my friends as an anglophile and love a great many things British
