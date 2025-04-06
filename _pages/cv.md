@@ -43,22 +43,16 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  My complete list of publications can be found under the [Publications tab](https://asemposki.github.io/publications/) or on my [INSPIRE page](https://inspirehep.net/authors/1873033?ui-citation-summary=true).
   
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  The complete list of my talks can be found under the [Talks tab](https://asemposki.github.io/talks/).
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  The complete list of my teaching projects can be found under the [Teaching tab](https://asemposki.github.io/teaching/).
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Fill this in.
