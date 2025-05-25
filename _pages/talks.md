@@ -37,6 +37,9 @@ A complete list of my seminars, invited talks, contributed talks (excluding coll
 
 # Contributed Talks
 
+## 2025
+* May 19: Nuclear theory for nuclear astrophysics, 2025 IReNA-CeNAM Frontiers for Nuclear Astrophysics Junior Workshop, Athens, OH, USA
+
 ## 2023
 * November 31: Mind the gaps: applying Bayesian model mixing to the dense matter equation of state, 6th Joint Meeting of the APS DNP and the Physical Society of Japan, the Big Island, HI, USA
   * Contributed talk to mini-symposium “Applications of Advanced Statistics and Machine Learning Methods in Nuclear Physics”
