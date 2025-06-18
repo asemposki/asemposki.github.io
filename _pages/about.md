@@ -28,6 +28,7 @@ I'm a member of:
 - [The Bayesian Analysis of Nuclear Dynamics (BAND) collaboration](https://bandframework.github.io)
 - [The Modular Unified Solver of the Equation of State (MUSES) collaboration](https://musesframework.io)
 - [The FRIB Theory Alliance](https://fribtheoryalliance.org)
+- [The CompactObject team](https://chunhuangphy.github.io/CompactObject/)
 
 Fun facts:
 - I'm an avid fan of classic rock, especially Led Zeppelin, The Doors, Electric Light Orchestra, The Moody Blues, The Beatles, and David Bowie
