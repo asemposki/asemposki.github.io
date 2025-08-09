@@ -27,5 +27,8 @@ author_profile: true
 
 ## Awaiting peer review
 
+* **A. C. Semposki**, C. Drischler, R. J. Furnstahl, D. R. Phillips, _Microscopic constraints for the equation of state and structure of neutron stars: a Bayesian model mixing framework_. ArXiv submission: 2505.18921; submitted to Phys. Rev. C.
+  * See on [arXiv](https://arxiv.org/abs/2505.18921).
+
 * S. Lalit, **A. C. Semposki**, J. M. Maldonado, _Star Log-extended eMulation: a method for efficient computation of the Tolman-Oppenheimer-Volkoff equations_. ArXiv submission: 2411.10556; submitted to Phys. Rev. Research.
   * See on [arXiv](https://arxiv.org/abs/2411.10556).
