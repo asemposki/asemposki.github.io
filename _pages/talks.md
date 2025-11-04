@@ -28,6 +28,8 @@ A complete list of my seminars, invited talks, contributed talks (excluding coll
 
 ## 2025
 
+* October 17: Uncertainties here, there, and everywhere: Bayesian uncertainty quantification and model mixing in nuclear physics, Workshop: Systematic and Model Uncertainties in Nuclear Experiment and Theory: New Tools, Techniques, and Opportunities for Collaboration I, APS DNP Fall Meeting, Chicago, IL, USA
+
 * May 13: Nuclear Theory in the Precision Era: An Overview, 3rd Frontiers in Nuclear Astrophysics Summer School (Ohio University), Athens, OH, USA
 
 ## 2024
@@ -38,6 +40,9 @@ A complete list of my seminars, invited talks, contributed talks (excluding coll
 # Contributed Talks
 
 ## 2025
+
+* November: Microscopic constraints on neutron star structure and properties using Bayesian model mixing, ISNET-11: Information and Statistics for Nuclear Experiment and Theory, ECT*, Trento, Italy
+
 * May 19: Nuclear theory for nuclear astrophysics, 2025 IReNA-CeNAM Frontiers for Nuclear Astrophysics Junior Workshop, Athens, OH, USA
 
 ## 2023
