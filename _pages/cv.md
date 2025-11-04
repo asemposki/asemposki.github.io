@@ -9,10 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Experience
-======
-* Postdoctoral Fellow (Herzberg), strongint group, Technische Universität Darmstadt, September 2025-present
-
 Education
 ======
 * Ph.D in Theoretical Nuclear Physics, Ohio University, August 2025 (Advisor: Daniel R. Phillips)
