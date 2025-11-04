@@ -13,6 +13,9 @@ author_profile: true
 
 ## Peer Reviewed
 
+* S. Lalit, **A. C. Semposki**, J. M. Maldonado, _Star Log-extended eMulation: a method for efficient computation of the Tolman-Oppenheimer-Volkoff equations_. Phys. Rev. Research **7**, 043037 (2025).
+  * See on [arXiv](https://arxiv.org/abs/2411.10556); see on [Phys. Rev. Research](https://journals.aps.org/prresearch/abstract/10.1103/5p3h-b8rf).
+
 * **A. C. Semposki**, C. Drischler, R. J. Furnstahl, J. A. Melendez, D. R. Phillips, _From chiral EFT to perturbative QCD: a Bayesian model mixing approach to symmetric nuclear matter_. Phys. Rev. C. **111**, 035804 (2025).
   * See on [arXiv](https://arxiv.org/abs/2404.06323); see on [Phys. Rev. C](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.111.035804). 
 
@@ -25,10 +28,7 @@ author_profile: true
 * P. Jaikumar, **A. C. Semposki**, M. Prakash, C. Constantinou, _g-mode oscillations in hybrid stars: A tale of two sounds_. Phys. Rev. D **103**, 123009 (2021).
   * See on [arXiv](https://arxiv.org/abs/2101.06349); see on [Phys. Rev. D](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.103.123009).
 
-## Awaiting peer review
+## Under peer review
 
 * **A. C. Semposki**, C. Drischler, R. J. Furnstahl, D. R. Phillips, _Microscopic constraints for the equation of state and structure of neutron stars: a Bayesian model mixing framework_. ArXiv submission: 2505.18921; submitted to Phys. Rev. C.
   * See on [arXiv](https://arxiv.org/abs/2505.18921).
-
-* S. Lalit, **A. C. Semposki**, J. M. Maldonado, _Star Log-extended eMulation: a method for efficient computation of the Tolman-Oppenheimer-Volkoff equations_. ArXiv submission: 2411.10556; submitted to Phys. Rev. Research.
-  * See on [arXiv](https://arxiv.org/abs/2411.10556).
