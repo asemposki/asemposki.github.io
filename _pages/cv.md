@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Experience
 ======
 * Postdoctoral scholar, The Ohio State University, May 2026-present (Supervisor: Tyler Gorda)
 
