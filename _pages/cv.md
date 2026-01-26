@@ -11,6 +11,10 @@ redirect_from:
 
 Education
 ======
+* Postdoctoral scholar, The Ohio State University, May 2026-present (Supervisor: Tyler Gorda)
+
+Education
+======
 * Ph.D in Theoretical Nuclear Physics, Ohio University, August 2025 (Advisor: Daniel R. Phillips)
 * M.S. in Theoretical Nuclear Physics, Ohio University, May 2021 (Advisor: Daniel R. Phillips)
 * B.S. in Physics, Ohio University, May 2019
@@ -33,6 +37,7 @@ Collaborations
 ======
 * Bayesian Analysis of Nuclear Dynamics (**BAND**) Collaboration
 * Modular Unified Solver of the Equation of State (**MUSES**) Collaboration
+* CompactObject Collaboration
 
 Publications
 ======
@@ -53,6 +58,8 @@ Official Visits
  
 Workshops Attended
 ======
+* December 2025: Nuclear Physics and Dense Nuclear Matter Equation of State Workshop (IRL-NPA/FRIB), East Lansing, MI, USA
+
 * October 2024: Dense Nuclear Matter Equation of State from Theory and Experiments Workshop (IRL-NPA/FRIB), East Lansing, MI, USA
 
 * August 2024: Put the reaction into action: a nuclear physics boot camp on reaction methods (FRIB-TA Summer School), East Lansing, MI, USA
