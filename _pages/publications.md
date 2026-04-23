@@ -13,6 +13,9 @@ author_profile: true
 
 ## Peer Reviewed
 
+* **A. C. Semposki**, C. Drischler, R. J. Furnstahl, D. R. Phillips, _Microscopic constraints for the equation of state and structure of neutron stars: a Bayesian model mixing framework_. Phys. Rev. C **113**, 015808 (2026).
+  * See on [arXiv](https://arxiv.org/abs/2505.18921); see on [Phys. Rev. C](https://journals.aps.org/prc/abstract/10.1103/fxv6-gdnw).
+
 * S. Lalit, **A. C. Semposki**, J. M. Maldonado, _Star Log-extended eMulation: a method for efficient computation of the Tolman-Oppenheimer-Volkoff equations_. Phys. Rev. Research **7**, 043037 (2025).
   * See on [arXiv](https://arxiv.org/abs/2411.10556); see on [Phys. Rev. Research](https://journals.aps.org/prresearch/abstract/10.1103/5p3h-b8rf).
 
@@ -30,5 +33,5 @@ author_profile: true
 
 ## Under peer review
 
-* **A. C. Semposki**, C. Drischler, R. J. Furnstahl, D. R. Phillips, _Microscopic constraints for the equation of state and structure of neutron stars: a Bayesian model mixing framework_. ArXiv submission: 2505.18921; submitted to Phys. Rev. C.
-  * See on [arXiv](https://arxiv.org/abs/2505.18921).
+* K. Agarwal, J. Jahan, B. Kardan, P. T. H. Pang, T. Reichert, **A. C. Semposki**, _Toward a Unified Understanding of the Dense Matter Equation of State_. Invited submission to Eur. Jour. Phys. Special Topics.
+  * See on [arXiv](https://arxiv.org/abs/2511.20378).
