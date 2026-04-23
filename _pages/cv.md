@@ -53,6 +53,7 @@ Teaching
 
 Official Visits
 ======
+* Facility for Rare Isotope Beams, Nov 2025 - Apr 2026; worked with Filomena Nunes and Kyle Beyer on BAND-related optical potential project
 * Facility for Rare Isotope Beams, Jan-Feb 2024 (3 weeks); for development and beginning BAND-funded project to combine BAND tools for applications to nuclear scattering
   * Host: Filomena Nunes
  
