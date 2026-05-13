@@ -11,6 +11,10 @@ A complete list of my seminars, invited talks, contributed talks (excluding coll
 
 # Seminars
 
+## 2026
+
+* February 19: Uncertainties here, there, and everywhere: Bayesian model mixing and uncertainty quantification for the dense matter equation of state, NP3M Seminar (Virtual)
+
 ## 2024
 
 * August 20: From chiral EFT to perturbative QCD: A Bayesian model mixing approach to the dense matter equation of state, T-2 Division Theory Seminar (Los Alamos National Laboratory), Los Alamos, NM, USA
